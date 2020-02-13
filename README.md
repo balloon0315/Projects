@@ -1,4 +1,4 @@
-# Projects
+# Zero To Hero
 
 This folder contains my projects, starting from my first "awkward" SAS project. :joy:
 

@@ -1,6 +1,6 @@
 # Zero To Hero
 
-This folder contains my projects, starting from my first "awkward" SAS project. :joy:
+This folder contains my projects, starting from my first SAS project. :joy:
 
 My master's degree experience pave the path for me to learn data analysis/science better and deeper.
 
